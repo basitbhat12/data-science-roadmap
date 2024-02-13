@@ -4,7 +4,7 @@
     <img src="assets/anternsvg.svg" alt="Logo" width="400">
   </a>
 
-  <h3 align="center">One-stop solution for all your Data Science learning needs.</h3>
+  <h3 align="center">One-stop solution for all your Data Science learning need  s.</h3>
 
   <p align="center">
     All in one place, the best resources to learn Data Science with comprehensive and detailed roadmaps.
